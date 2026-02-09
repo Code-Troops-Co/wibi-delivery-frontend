@@ -20,12 +20,6 @@ const languages = [
     flag: "🇺🇸",
   },
   {
-    code: "hi",
-    countryCode: "in",
-    name: "हिन्दी",
-    flag: "🇮🇳",
-  },
-  {
     code: "ar",
     countryCode: "sa",
     name: "العربية",
